@@ -1,3 +1,4 @@
 File D create for nano
 File D format txt
 File D fixed
+File D fixed in WD NLR
