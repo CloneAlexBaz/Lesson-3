@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 File C1 create from nano
 File C1 ready
+=======
+File C1.txt create from nano
+File C1.txt create in WD NLR
+>>>>>>> Main/master
